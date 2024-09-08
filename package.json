@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-resume-builder",
+  "version": "1.0.0",
+  "description": "Dynamic Resume Builder with Form",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramsha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.2.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
